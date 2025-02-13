@@ -25,8 +25,7 @@ Este proyecto optimiza la administración de multas vehiculares en el sector pú
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/gestion-multas.git
-   cd gestion-multas
+   git clone Dharmanet/Gestor-de-Multas-Jalisco-.git
    ```
 2. **Instala las dependencias:**
    ```bash
